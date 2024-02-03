@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: subway-cont
-        image: soravkumarsharma/subway_surfers:latest
+        image: soravkumarsharma/subway-surfers:latest
         ports:
         - containerPort: 80
 ---
