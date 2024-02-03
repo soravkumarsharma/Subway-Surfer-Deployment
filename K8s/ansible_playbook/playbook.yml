@@ -1,0 +1,10 @@
+- hosts: all
+  name: fetch worker join token shell file
+  gather_facts: false
+  become: true
+  tasks:
+  - name: fetch worker join token shell file
+    ansible.builtin.fetch:
+      src: /home/ubuntu/worker_join.sh
+      dest: ./worker_join.sh
+      flat: yes
