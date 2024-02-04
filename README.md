@@ -1,3 +1,7 @@
-<h1 style="text-align: center;">Subway-Surfer-Deployment</h1> 
+<div align="center">
+ # Subway-Surfers-Deployment
+  ## DevOps Project
+### [Detailed Blog](https://soravks.hashnode.dev/kubegaming-mastery-a-step-by-step-guide-to-tictactoe-deployment-with-argocd-jenkins-ci-and-terraform)
+</div> 
 
-![image](https://github.com/soravkumarsharma/Subway-Surfer-Deployment/assets/77971771/61b1bcab-b2df-44a4-b202-2aafefbc2b3c)
+![image](https://soravks.hashnode.dev/unlocking-adventure-subway-surfers-on-kubernetes-with-jenkins-terraform)
