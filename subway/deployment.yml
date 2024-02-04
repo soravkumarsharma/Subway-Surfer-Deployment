@@ -16,7 +16,7 @@ spec:
         app: subway-prod
     spec:
       containers:
-      - name: subway-cont
+      - name: subway
         image: soravkumarsharma/subway-surfers:latest
         ports:
         - containerPort: 80
