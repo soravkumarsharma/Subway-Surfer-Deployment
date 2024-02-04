@@ -1,4 +1,11 @@
 apiVersion: v1
+kind: Namespace
+metadata:
+  name: subway
+  labels:
+    name: subway-ns
+---
+apiVersion: v1
 kind: ServiceAccount
 metadata:
   name: jenkins
