@@ -43,3 +43,10 @@ subjects:
 - namespace: subway 
   kind: ServiceAccount
   name: jenkins
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: secret-sa-jenkins
+  annotations:
+    kubernetes.io/service-account.name: "jenkins"
