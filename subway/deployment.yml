@@ -18,6 +18,7 @@ spec:
       containers:
       - name: subway
         image: soravkumarsharma/subway-surfers:latest
+        imagePullPolicy: Always
         ports:
         - containerPort: 80
 ---
