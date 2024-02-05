@@ -1,5 +1,5 @@
 <div align="center">
-# Subway-Surfer-Deployment
+#Subway-Surfer-Deployment
 
 [Detailed Blog](https://soravks.hashnode.dev/unlocking-adventure-subway-surfers-on-kubernetes-with-jenkins-terraform)
 
